@@ -8,15 +8,14 @@
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <author>Rushil Umaretiya, Arav Singh</author>
     <itunes:author>Rushil Umaretiya, Arav Singh</itunes:author>
-    <itunes:email>rushilwiz@gmail.com</itunes:email>
+    <itunes:email>dearanonpodcast@gmail.com</itunes:email>
     <image>
       <url>https://tjtodayrewind.github.io/icon.jpg</url>
       <title>tjToday Rewind</title>
       <link>https://tjtodayrewind.github.io</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rushil Umaretiya</itunes:name>
-      <itunes:email>rushilwiz@gmail.com</itunes:email>
+      <itunes:email>dearanonpodcast@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>tjtoday</itunes:keywords>
     <copyright>Rushil Umaretiya 2023</copyright>
@@ -35,6 +34,7 @@
       <enclosure url="https://tjtodayrewind.github.io/src/cults.mp3" type="audio/mpeg" length="28659686" />
       <itunes:duration>1200</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">ae3a1efc-c6f7-11eb-a962-331b60aa948d</guid>
       <description>
 Hey! This episode of tjToday Rewind consists of Rushil and Arav examining what makes particular groups in TJ, such as MUN, Latin, and Crew, widely regarded by the student population as “cults.” By interviewing people who are actually in these groups and recollecting personal experiences, Rushil and Arav get a good idea on how impactful rhetorical language truly is in making the “cultish” characteristics of these groups and why these groups form such tight-knit communities.
 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>tjToday Rewind</title>
+    <googleplay:author>Rushil Umaretiya, Arav Singh</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Alexandria, Virginia</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Rushil Umaretiya, Arav Singh</author>
+    <itunes:author>Rushil Umaretiya, Arav Singh</itunes:author>
+    <itunes:email>rushilwiz@gmail.com</itunes:email>
+    <image>
+      <url>https://tjtodayrewind.github.io/icon.jpg</url>
+      <title>tjToday Rewind</title>
+      <link>https://tjtodayrewind.github.io</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Rushil Umaretiya</itunes:name>
+      <itunes:email>rushilwiz@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>tjtoday</itunes:keywords>
+    <copyright>Rushil Umaretiya 2023</copyright>
+    <description>Taking a deep dive into the tjToday of the past.</description>
+    <googleplay:image href="https://tjtodayrewind.github.io/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 19 Jan 2023 04:00:00 GMT</pubDate>
+    <link>https://tjtodayrewind.github.io/feed.xml</link>
+    <itunes:image href="https://tjtodayrewind.github.io/icon.jpg" />
+    <item>
+      <author>Rushil Umaretiya, Arav Singh</author>
+      <itunes:author>Rushil Umaretiya, Arav Singh</itunes:author>
+      <title>Cults of TJ</title>
+      <pubDate>Thu, 19 Jan 2023 04:00:00 GMT</pubDate>
+      <enclosure url="https://tjtodayrewind.github.io/src/cults.mp3" type="audio/mpeg" length="28659686" />
+      <itunes:duration>1200</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Hey! This episode of tjToday Rewind consists of Rushil and Arav examining what makes particular groups in TJ, such as MUN, Latin, and Crew, widely regarded by the student population as “cults.” By interviewing people who are actually in these groups and recollecting personal experiences, Rushil and Arav get a good idea on how impactful rhetorical language truly is in making the “cultish” characteristics of these groups and why these groups form such tight-knit communities.
+
+You can find our sources at: tinyurl.com/cultsoftj
+      </description>
+    </item>
+  </channel>
+</rss>
